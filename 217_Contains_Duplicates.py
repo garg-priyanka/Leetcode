@@ -1,3 +1,4 @@
+# day 1
 def containsDuplicate(nums):
     hashset = set()
 
